@@ -4,3 +4,5 @@ Sou Lucas Ferrari
 
 🔭 - Estudo Python & Java
 
+![snake gif](https://github.com/lucasferrarisoares/lucasferrarisoares/blob/output/github-contribution-grid-snake.gif)
+
