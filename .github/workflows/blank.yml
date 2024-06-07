@@ -1,6 +1,6 @@
 # GitHub Action for generating a contribution graph with a snake eating your contributions.
 
-# ![snake gif](https://github.com/your-user-name/your-user-name/blob/output/dist/github-snake.svg)
+# ![snake gif](https://github.com/your-user-name/your-user-name/blob/output/dist/dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9)
 
 name: Snake from README.md
 
