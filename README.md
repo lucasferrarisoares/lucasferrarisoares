@@ -4,5 +4,5 @@ Sou Lucas Ferrari
 
 🔭 - Estudo Python & Java
 
-![snake gif](https://github.com/lucasferrarisoares/lucasferrarisoares/blob/output/dist/github-snake-dark.svg?palette=github-dark)
+![snake gif](https://github.com/lucasferrarisoares/lucasferrarisoares/blob/output/github-snake.svg)
 
