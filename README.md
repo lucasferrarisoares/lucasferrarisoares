@@ -1,5 +1,5 @@
 Sou Lucas Ferrari
 
+👨‍🎓 - Terceiro Período - Informática UEM
 🔭 - Estudo Python & Java
 
-👨‍🎓 - Informática | Universidade Estadual de Maringá
